@@ -2,3 +2,4 @@ Grid ile hizalama dosyası oluşturuldu
 İndex dosyası oluşturuldu ve tamamlandı
 CSS dostası oluşturuldu
 Kutular oluşturuldu
+Canlıya alındı
