@@ -1,1 +1,2 @@
 Grid ile hizalama dosyası oluşturuldu
+İndex dosyası oluşturuldu ve tamamlandı
